@@ -1,0 +1,8 @@
+/*
+ * Recovered stylesheet entry point.
+ * The exact final deployed visual CSS is preserved in assets/index-DHBhs0fk.css.
+ * New style overrides can be added below while the original look remains intact.
+ */
+@import '../assets/index-DHBhs0fk.css';
+
+/* Future source-level overrides go below this line. */
